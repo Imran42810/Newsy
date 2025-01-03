@@ -71,4 +71,5 @@ The Automated AI News Website is a fully automated platform that scrapes and agg
 
 ## Contribution
 Greate thanks to - Unisami
+
 Contributions are welcome! If you have suggestions for improvements or new features, please create an issue or submit a pull request.
